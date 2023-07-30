@@ -2,4 +2,4 @@
 Basic JS Implementation
 
 
-https://zephyr005.github.io/Drinking-Water/
+https://zephyr005.github.io/Drinking-Water-UI/
